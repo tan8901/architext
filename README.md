@@ -4,6 +4,8 @@
 
 **Built with:** LangGraph · LangChain · Ollama (Llama 3.2) · ChromaDB · Streamlit
 
+<img width="1918" height="586" alt="image" src="https://github.com/user-attachments/assets/9711b4bd-3e92-4d84-b23b-4b52d38f3c76" />
+
 ---
 
 ## What it does
@@ -18,13 +20,10 @@ Architext is a stateful AI agent that reads your project requirements and produc
 - **Prioritized implementation roadmap**
 
 ### Example
-
-```
-Input:  "Real-time chat app, 5k concurrent users, team of 4, $500/mo budget, AWS"
-Output: 3 architectures (Monolith-First vs Event-Driven vs Serverless)
-        with diagrams, cost breakdown, and risk flags
-Time:   ~90 seconds on local Llama 3.2
-```
+> Demonstration Video is available in the repository as Architext_Demo.mp4
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/258b509c-d9d1-4640-9121-7eac3b1b3077" />
+<img width="1918" height="732" alt="image" src="https://github.com/user-attachments/assets/b426642e-125e-45d5-a897-e8e2ce45aabf" />
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/4fa6fa57-8e49-4562-afb1-b732cf585f84" />
 
 ---
 
