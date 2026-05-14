@@ -1,4 +1,4 @@
-# 🏗️ Architext — AI Solutions Architect Agent
+# 🏗️ Architext: AI Solutions Architect Agent
 
 > Transform product requirements into production-ready architecture decisions in ~90 seconds.
 
